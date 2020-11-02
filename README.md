@@ -1,4 +1,4 @@
-# breast-cancer-classification
+# Breast Cancer Classification
 Classifying breast cancer diagnosis using various prediction models
 
 ## PROJECT DESCRIPTION
