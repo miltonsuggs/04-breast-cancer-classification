@@ -18,9 +18,11 @@ The EDA section makes use of visualization techniques to get an overview of the 
 Using violin and swarm plots we'll be able to see what kind of distinctions there are between benign and malignant cases and their respective feature variables.
 
 VIOLIN PLOT: 
+
 ![alt text](violin_plot.png) 
 
 SWARM PLOT:
+
 ![alt text](swarm_plot.png)
 
 ## OUTSTANDING OBSERVATIONS
@@ -38,6 +40,7 @@ MODELS USED:
 * K NEAREST NEIGHBOR
 
 ## MODEL EVALUATION: 
+
 Several metrics were used to evaluate our models including:
 * ACCURACY SCORE
 * F1 SCORE
