@@ -2,7 +2,7 @@
 Classifying breast cancer diagnosis using various prediction models
 
 ## PROJECT DESCRIPTION
-Using data from a digitized images of a brest mass in the state of Wisconsin, this notebook will use feature selection and model building using several different algorithms to attempt to predict whether a breast mass is benign or malignant.
+Using data from a digitized images of a breast mass in the state of Wisconsin, this notebook will use feature selection and model building using several different algorithms to attempt to predict whether a breast mass is benign or malignant.
 
 ## ABOUT THE DATA 
 
